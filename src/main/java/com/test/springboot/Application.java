@@ -1,4 +1,4 @@
-package com.test.springboot;
+package com.docker.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
